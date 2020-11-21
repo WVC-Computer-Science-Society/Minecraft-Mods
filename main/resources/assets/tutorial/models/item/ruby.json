@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated", // determines what is generated
+  "textures": {
+    "layer0": "tutorial:items/ruby" // replace the MOD_ID with name of my mod, the package location with the texutre
+  }
+}
